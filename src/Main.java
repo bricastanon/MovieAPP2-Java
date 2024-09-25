@@ -44,6 +44,7 @@ public class Main {
         System.out.println("First genre: " + favoriteGenres[0]);
         System.out.println("Second genre: " + favoriteGenres[1]);
         System.out.println("Third genre: " + favoriteGenres[2]);
+        //update saving
 
         // Example: Datatype[] topic = {"topics", "etc"};
 
